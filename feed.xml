@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://clariphy.org/feed.xml" rel="self" type="application/atom+xml" /><link href="http://clariphy.org/" rel="alternate" type="text/html" /><updated>2021-06-27T01:02:32+00:00</updated><id>http://clariphy.org/feed.xml</id><title type="html">Community Laboratory for AI Research at the Intersection with Physics (CLARIPHY)</title><subtitle>Community Laboratory for AI Research at the Intersection with Physics (CLARIPHY)</subtitle><entry><title type="html">ALPhA Completes a Successful Virtual Summer Research Program</title><link href="http://clariphy.org/pages/2020/11/20/ALPhA.html" rel="alternate" type="text/html" title="ALPhA Completes a Successful Virtual Summer Research Program" /><published>2020-11-20T00:00:00+00:00</published><updated>2020-11-20T00:00:00+00:00</updated><id>http://clariphy.org/pages/2020/11/20/ALPhA</id><content type="html" xml:base="http://clariphy.org/pages/2020/11/20/ALPhA.html">&lt;!--
+&lt;figure class=&quot;right caption&quot; style=&quot;&quot;&gt;&lt;a href=&quot;/assets/images/posts/20201120-ALPhA-group-meeting.png&quot;&gt;
+	&lt;img alt=&quot;Tracking with A Common Tracking Software (ACTS)&quot; src=&quot;/assets/images/posts/20201120-ALPhA-group-meeting.png&quot; style=&quot;&quot;&gt;
+&lt;/a&gt;&lt;figcaption&gt;&lt;p&gt;ALPhAAAAAA&lt;/p&gt;
+&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+&lt;figure class=&quot;right caption&quot; style=&quot;&quot;&gt;&lt;a href=&quot;/assets/images/posts//assets/images/posts/20201120-ALPhA-group-meeting.png&quot;&gt;
+	&lt;img alt=&quot;Extending the Physics Reach of LHCb in Run 3 and Boost-Histogram for Analysis System&quot; src=&quot;/assets/images/posts//assets/images/posts/20201120-ALPhA-group-meeting.png&quot; style=&quot;&quot;&gt;
+&lt;/a&gt;&lt;figcaption&gt;&lt;p&gt;ALPHA again!&lt;/p&gt;
+&lt;/figcaption&gt;&lt;/figure&gt;
+
+--&gt;
+&lt;p&gt;The CLARIPHY-affiliated Algorithms for Learning in Physics Application (ALPhA) group at Davidson College
+completed a successful summer research program with nine undergraduate students from four institutions.
+Due to the pandemic, the research was virtual and students resided across the world for their work. The group collaborated
+with the detector, accelerator, and Active-Target Time Projection Chamber groups at the Facility for Rare Isotope Beams and the Theory Center
+at the Thomas Jefferson National Accelerator Facility. With laboratories required to stop beam for much of the summer due to the pandemic, increased focus turned towards computational methods, allowing the group to make significant progress over the course of the summer.&lt;/p&gt;
+
+&lt;h2 id=&quot;research-highlights&quot;&gt;Research Highlights&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Accelerator Physics&lt;/strong&gt; In collaboration with the accelerator physics group at FRIB,
+ALPhA investigated reinforcement learning for automatic beam tuning.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;QCD Theory&lt;/strong&gt; In collaboration with the Theory Center at Jefferson Lab and Old Dominion
+University, ALPhA completed portions of an AI-based global analysis framework.&lt;/p&gt;
+
+&lt;!-- All the posters from the session are available here:
+[IRIS-HEP Poster Session 2020](http://indico.cern.ch/event/894127/) --&gt;
+
+&lt;h2 id=&quot;dissemination&quot;&gt;Dissemination&lt;/h2&gt;
+&lt;figure class=&quot;right caption&quot; style=&quot;&quot;&gt;&lt;a href=&quot;/assets/images/posts/20201120-ALPhA-Landis.png&quot;&gt;
+	&lt;img alt=&quot;ALPhA research making it's way into living rooms across the country.&quot; src=&quot;/assets/images/posts/20201120-ALPhA-Landis.png&quot; style=&quot;&quot; /&gt;
+&lt;/a&gt;&lt;figcaption&gt;&lt;p&gt;ALPhA presents to living rooms across the USA at the virtual APS Division of Nuclear Physics meeting.&lt;/p&gt;
+&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;As a testament to a productive summer within these unusual time, four summer students presented their work at the American Physical Society (APS) Division of Nuclear Physics (DNP) annual meeting and PI Michelle Kuchera represented ALPhA as a plenary speaker at the Low-Energy Community Meeting, and an invited speaker at the APS DNP meeting. In addition, five papers from prior ALPhA work were submitted this summer.&lt;/p&gt;
+
+&lt;h3 id=&quot;posters-at-dnp&quot;&gt;Posters at DNP&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/fNnh73dxMi8&quot;&gt;Using Adversarial Networks to Generate Realistic Structure Function Surfaces&lt;/a&gt; &lt;em&gt;Andrew Hoyle, et. al.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/JcgIZO6W1hw&quot;&gt;Machine learning for improved resolution and fast predictions in a parallel-plate avalanche counter with optical readout (O-PPAC)&lt;/a&gt; &lt;em&gt;Kate Roberts, et. al.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/FsuGnnZvWtE&quot;&gt;Using neural networks to generate cross section data from theoretical QCD parameters&lt;/a&gt; &lt;em&gt;Rida Shahid, et. al.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/OiFyJOvWqz0&quot;&gt;Using machine learning techniques to interface between experimental cross sections and QCD theory parameters&lt;/a&gt;. &lt;em&gt;Eleni Tsitinidi, et. al.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/HKw5jeAr498&quot;&gt;Machine learning techniques for track analysis in Active-Target Time Projection Chamber data&lt;/a&gt; &lt;em&gt;Lexie Weghorn, et. al.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h3 id=&quot;talks&quot;&gt;Talks&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Machine learning in nuclear physics experiments. DNP. &lt;em&gt;Michelle Kuchera&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://indico.frib.msu.edu/event/27/attachments/114/656/Kuchera_ML_LECM2020.pdf&quot;&gt;Machine Learning in Low-Energy Nuclear Physics&lt;/a&gt;. LECM. &lt;em&gt;Michelle Kuchera&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;h2 id=&quot;summer-school&quot;&gt;Summer School&lt;/h2&gt;
+&lt;figure class=&quot;right caption&quot; style=&quot;&quot;&gt;&lt;a href=&quot;/assets/images/posts/20201120-TALENT.png&quot;&gt;
+	&lt;img alt=&quot;ECT* TALENT Summer School students.&quot; src=&quot;/assets/images/posts/20201120-TALENT.png&quot; style=&quot;&quot; /&gt;
+&lt;/a&gt;&lt;figcaption&gt;&lt;p&gt;ECT* TALENT Summer School engaged a worldwide community in AI efforts in nuclear physics.&lt;/p&gt;
+&lt;/figcaption&gt;&lt;/figure&gt;
+
+&lt;p&gt;PIs Michelle and Raghu co-organized and co-taught the &lt;a href=&quot;https://github.com/NuclearTalent/MachineLearningECT&quot;&gt;ECT* Nuclear TALENT course on Machine Learning and Data Analysis for Nuclear Physics&lt;/a&gt;. This course is for nuclear physics graduate students and grants course credit to those from European institutions. Due to the pandemic, the school was held remotely, with over 150 participants tuning in from all six inhabitable continents.&lt;/p&gt;
+
+&lt;!--
+## Papers submitted
+* GAN
+*
+*
+*
+--&gt;</content><author><name>Michelle Kuchera</name></author><category term="pages" /><summary type="html">The CLARIPHY-affiliated Algorithms for Learning in Physics Application (ALPhA) group at Davidson College completed a successful summer research program with nine undergraduate students from four institutions. Due to the pandemic, the research was virtual and students resided across the world for their work. The group collaborated with the detector, accelerator, and Active-Target Time Projection Chamber groups at the Facility for Rare Isotope Beams and the Theory Center at the Thomas Jefferson National Accelerator Facility. With laboratories required to stop beam for much of the summer due to the pandemic, increased focus turned towards computational methods, allowing the group to make significant progress over the course of the summer. Research Highlights Accelerator Physics In collaboration with the accelerator physics group at FRIB, ALPhA investigated reinforcement learning for automatic beam tuning. QCD Theory In collaboration with the Theory Center at Jefferson Lab and Old Dominion University, ALPhA completed portions of an AI-based global analysis framework. Dissemination ALPhA presents to living rooms across the USA at the virtual APS Division of Nuclear Physics meeting. As a testament to a productive summer within these unusual time, four summer students presented their work at the American Physical Society (APS) Division of Nuclear Physics (DNP) annual meeting and PI Michelle Kuchera represented ALPhA as a plenary speaker at the Low-Energy Community Meeting, and an invited speaker at the APS DNP meeting. In addition, five papers from prior ALPhA work were submitted this summer. Posters at DNP Using Adversarial Networks to Generate Realistic Structure Function Surfaces Andrew Hoyle, et. al. Machine learning for improved resolution and fast predictions in a parallel-plate avalanche counter with optical readout (O-PPAC) Kate Roberts, et. al. Using neural networks to generate cross section data from theoretical QCD parameters Rida Shahid, et. al. Using machine learning techniques to interface between experimental cross sections and QCD theory parameters. Eleni Tsitinidi, et. al. Machine learning techniques for track analysis in Active-Target Time Projection Chamber data Lexie Weghorn, et. al.   Talks Machine learning in nuclear physics experiments. DNP. Michelle Kuchera Machine Learning in Low-Energy Nuclear Physics. LECM. Michelle Kuchera   Summer School ECT* TALENT Summer School engaged a worldwide community in AI efforts in nuclear physics. PIs Michelle and Raghu co-organized and co-taught the ECT* Nuclear TALENT course on Machine Learning and Data Analysis for Nuclear Physics. This course is for nuclear physics graduate students and grants course credit to those from European institutions. Due to the pandemic, the school was held remotely, with over 150 participants tuning in from all six inhabitable continents.</summary></entry><entry><title type="html">Dark-matter and Neutrino Computation Explored (DANCE) Machine Learning Workshop 2020</title><link href="http://clariphy.org/pages/2020/08/08/DANCE_ML.html" rel="alternate" type="text/html" title="Dark-matter and Neutrino Computation Explored (DANCE) Machine Learning Workshop 2020" /><published>2020-08-08T00:00:00+00:00</published><updated>2020-08-08T00:00:00+00:00</updated><id>http://clariphy.org/pages/2020/08/08/DANCE_ML</id><content type="html" xml:base="http://clariphy.org/pages/2020/08/08/DANCE_ML.html">&lt;p&gt;From Aug 3rd to Aug 7th, there was the &lt;a href=&quot;https://indico.physics.lbl.gov/event/1192/&quot;&gt;Dark-matter and Neutrino Computation Explored (DANCE) Machine Learning Workshop 2020&lt;/a&gt; with 233 participants, averaging around 60 at any given time.&lt;/p&gt;
+
+&lt;p&gt;The DANCE workshop series aims to unify the large disperse community of neutrino and dark-matter experiments, where DANCE-ML is a new workshop to unify efforts related to machine learning.  Experimentally, most medium-sized modern dark matter and neutrino experiments emerged out of the success of underground experimentation related to discovery that neutrinos had mass (Nobel Prize 2015).  These successes gave rise to a large new field between particle physics, astrophysics, and nuclear physics while advancing all three fields.   The total size of this community is bigger than, for instance, the DUNE community where the smaller collaboration size makes these experiments heavily R&amp;amp;D driven.  The &lt;a href=&quot;didacts.org&quot;&gt;DIDACTS&lt;/a&gt; project is an HDR funded project that is forming a &lt;a href=&quot;https://en.wikipedia.org/wiki/Community_of_practice&quot;&gt;community of practice&lt;/a&gt; for computational efforts across our field, especially related to machine learning.&lt;/p&gt;
+
+&lt;p&gt;The DANCE-ML workshop focuses on understanding and communicating developments in the area of machine learning in this field, which is quickly changing how measurements are performed.  There are three parts to the workshop:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;a training portion related to the basics of machine learning in dark matter, and graph signal processing by CLARIPHY collaborator Waheed Bajwa&lt;/li&gt;
+  &lt;li&gt;talks on new developments in the field&lt;/li&gt;
+  &lt;li&gt;breakout rooms on specific topics, like uncertainty quantification in machine learning&lt;/li&gt;
+  &lt;li&gt;career panel for those who are in industry&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The workshop was a massive success (&lt;a href=&quot;https://indico.physics.lbl.gov/event/1192/timetable/#20200803.detailed&quot;&gt;timetable&lt;/a&gt;) due to its ability to bring in mostly students while having updates from a wide range of experiments, ranging from neutrinoless double-beta decay to different experimental approaches to dark matter detection.  A theme of the workshop was moving beyond convolutional neural networks, which are less applicable to our data than in astronomy due to the nature of our data.  Therefore, a range of new techniques were discussed ranging from GANs to graph neural networks.&lt;/p&gt;</content><author><name>Christopher Tunnell</name></author><category term="pages" /><summary type="html">From Aug 3rd to Aug 7th, there was the Dark-matter and Neutrino Computation Explored (DANCE) Machine Learning Workshop 2020 with 233 participants, averaging around 60 at any given time. The DANCE workshop series aims to unify the large disperse community of neutrino and dark-matter experiments, where DANCE-ML is a new workshop to unify efforts related to machine learning. Experimentally, most medium-sized modern dark matter and neutrino experiments emerged out of the success of underground experimentation related to discovery that neutrinos had mass (Nobel Prize 2015). These successes gave rise to a large new field between particle physics, astrophysics, and nuclear physics while advancing all three fields. The total size of this community is bigger than, for instance, the DUNE community where the smaller collaboration size makes these experiments heavily R&amp;amp;D driven. The DIDACTS project is an HDR funded project that is forming a community of practice for computational efforts across our field, especially related to machine learning. The DANCE-ML workshop focuses on understanding and communicating developments in the area of machine learning in this field, which is quickly changing how measurements are performed. There are three parts to the workshop: a training portion related to the basics of machine learning in dark matter, and graph signal processing by CLARIPHY collaborator Waheed Bajwa talks on new developments in the field breakout rooms on specific topics, like uncertainty quantification in machine learning career panel for those who are in industry The workshop was a massive success (timetable) due to its ability to bring in mostly students while having updates from a wide range of experiments, ranging from neutrinoless double-beta decay to different experimental approaches to dark matter detection. A theme of the workshop was moving beyond convolutional neural networks, which are less applicable to our data than in astronomy due to the nature of our data. Therefore, a range of new techniques were discussed ranging from GANs to graph neural networks.</summary></entry></feed>
